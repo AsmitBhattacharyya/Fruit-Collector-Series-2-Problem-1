@@ -1,1 +1,1 @@
-# Fruit-Collector-Series-2-Problem-1
+# Fruit-Collector-Part-2
